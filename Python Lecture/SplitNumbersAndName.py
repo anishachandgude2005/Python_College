@@ -1,0 +1,5 @@
+s=input("Enter a numbers and name:")
+arr=s.split()
+print("heterogeneous list",arr)
+n=input("enter the highest number for partition:")
+print("Partition:", s.partition(n))
